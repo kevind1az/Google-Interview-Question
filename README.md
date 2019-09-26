@@ -1,4 +1,4 @@
-# School-Work
+# Google Interview Question Practice
 
 LabK Instructions: 
 Write an application that a driver can use at the entrance of a parking structure to to reserve a parking space. Create a complete Java program that does the following:
